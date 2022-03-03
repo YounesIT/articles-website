@@ -4,7 +4,7 @@ description: >
   I shall remember thee, Tarnished. Smould'ring with thy meagre flame. Cower in fear of the night. The hands of the Fell Omen shall brook thee no quarter. - Found at: https://www.thyquotes.com/elden-ring/
 
 baseurl: "articles-website" # the subpath of your site, e.g. /blog/
-url: "https://younesit.github.io/" # the base hostname & protocol for your site
+url: "https://younesit.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Younes AIT
